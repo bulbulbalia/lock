@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1,NEWS24_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/News24/tracks-v1a1/mono.m3u8
+#EXTINF:-1,BANGLA_TV_HD
+http://tv.dugdugilive.com:8080/0ne$ky23/BanglaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,GTV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/GaziTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,INDIPENDENT_TV_HD
@@ -6,13 +10,13 @@ http://tv.dugdugilive.com:8080/0ne$ky23/Independent/tracks-v1a1/mono.m3u8
 #EXTINF:-1,JAMUNA_TV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/JamunaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SOMOY_TV_HD
-http://172.19.178.39:18190/JS-TV-05/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/SomoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CHANNEL_I_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/Channel-I/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN_NEWS_HD
-http://172.19.178.59:18190/SN-ST-TV-08/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/ATN-News/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CHANNEL_24_hD
-http://172.19.178.59:18190/SN-ST-TV-10/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/Channel24/tracks-v1a1/mono.m3u8
 #EXTINF:-1,T_SPORTS_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/TSports-Live/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NAGORIK_TV_HD
@@ -20,7 +24,7 @@ http://172.19.178.49:18190/SN-ST-TV-07/tracks-v1a1/mono.m3u8
 #EXTINF:-1,DBC_NEWS_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/DBC/tracks-v1a1/mono.m3u8
 #EXTINF:-1,SA_TV_HD
-http://172.19.178.59:18190/SN-ST-TV-14/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/satv/tracks-v1a1/mono.m3u8
 #EXTINF:-1,CHANNel_9_HD
 http://172.19.178.59:18190/SN-ST-TV-29/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BOISHAKHI_TV_HD
@@ -28,7 +32,7 @@ http://172.19.178.59:18190/SN-ST-TV-31/tracks-v1a1/mono.m3u8
 #EXTINF:-1,BANGLAVISION_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/BanglaVision/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ATN_BANGLA_TV_HD
-http://172.19.178.59:18190/SN-ST-TV-33/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/AtnBangla/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ASIAN_TV_HD
 http://172.19.178.59:18190/SN-ST-TV-34/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKATTOR_TV_HD
@@ -44,11 +48,11 @@ http://172.19.178.39:18190/JS-TV-08/tracks-v1a1/mono.m3u8
 #EXTINF:-1,ZEE_BANGLA_HD
 http://172.19.178.49:18190/SN-ST-TV-02/tracks-v1/mono.m3u8
 #EXTINF:-1,BTV_HD
-http://172.72.72.5:8080/1/tracks-v1a1/mono.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/BTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,NTV_HD
 http://tv.dugdugilive.com:8080/0ne$ky23/NTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,EKUSHEY_TV_HD
-http://97.74.103.44:8089/load/ekushytv/chunks.m3u8
+http://tv.dugdugilive.com:8080/0ne$ky23/EkusheyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,COLORS_BANGLA_HD
 http://97.74.103.44:8089/amrbd/colorsbangla/chunks.m3u8
 #EXTINF:-1,SONY_AAT_HD
